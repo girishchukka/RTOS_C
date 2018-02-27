@@ -11,7 +11,7 @@ typedef struct Task_
 
 Task_t task_list[] =
 {
-	{0, 0, thread1},
+	{0, 0, IdleTask},
 	{0, 0, thread2},
 	{0, 0, thread3}
 };

@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void thread1()
+void IdleTask()
 {
-	printf("Inside Thread1 \n");
+	printf("In IdleTask() \n");
 }

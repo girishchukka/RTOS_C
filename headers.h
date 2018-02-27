@@ -2,7 +2,7 @@
 
 /* Functions */
 
-void thread1(void);
+void IdleTask(void);
 void thread2(void);
 void thread3(void);
 
