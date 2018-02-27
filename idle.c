@@ -2,5 +2,5 @@
 
 void IdleTask()
 {
-	printf("In IdleTask() \n");
+	printf(" Executing idle task\n ... \n");
 }
